@@ -1,0 +1,16 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\bin\Debug\Türkiye Lig Şampiyon Belirleme.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\bin\Debug\Türkiye Lig Şampiyon Belirleme.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\bin\Debug\Türkiye Lig Şampiyon Belirleme.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\obj\Debug\Türkiye Lig Şampiyon Belirleme.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\obj\Debug\Türkiye Lig Şampiyon Belirleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\obj\Debug\Türkiye_Lig_Şampiyon_Belirleme.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\obj\Debug\Türkiye_Lig_Şampiyon_Belirleme.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\obj\Debug\Türkiye Lig Şampiyon Belirleme.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\obj\Debug\Türkiye Lig Şampiyon Belirleme.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\obj\Debug\Türkiye Lig Şampiyon Belirleme.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\obj\Debug\Türkiye Lig Şampiyon Belirleme.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\bin\Debug\Interop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\obj\Debug\Interop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Türkiye Lig Şampiyon Belirleme\Türkiye Lig Şampiyon Belirleme\obj\Debug\Türkiye Lig Şampiyon Belirleme.csproj.ResolveComReference.cache
